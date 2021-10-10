@@ -1,6 +1,9 @@
 # ASIS&T21
 ## Systematic Comparison of Data Models used in Mapping Knowledge Organization Systems
-Author: Yi-Yun Cheng
+Author: Yi-Yun Cheng (Jessica)
+Contact: 
+- yiyunyc2@illinois.edu
+- [Jessica's website](https://publish.illinois.edu/yiyuncheng/)
 
 yiyunyc2@illinois.edu
 

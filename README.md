@@ -1,11 +1,11 @@
 # ASIS&T21
 ## Systematic Comparison of Data Models used in Mapping Knowledge Organization Systems
 Author: Yi-Yun Cheng (Jessica)
+
 Contact: 
 - yiyunyc2@illinois.edu
 - [Jessica's website](https://publish.illinois.edu/yiyuncheng/)
 
-yiyunyc2@illinois.edu
 
 ### ABSTRACT
 This study explores six projects in mapping Knowledge Organization Systems (schemas, taxonomies, ontologies), and examines the data models used in these projects. We discuss (1) the two most common data models presented in these projects, namely tabular model, and tree model; (2) the implicit and explicit information shown in the data models; and (3) the information gains and losses of each model. We found that though the tree model maintains the hierarchical structure of the KOS while a tabular model flattens out the structure, both models can potentially obscure the information of the original KOS. This makes it problematic if we want to reconstruct a mapping project based on the outcomes manifested in either model. Our findings contribute to the Knowledge Organization literature by showing how choices of data models can impact the results in mapping schemas, taxonomies, and ontologies. 

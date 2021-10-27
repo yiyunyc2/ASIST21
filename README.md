@@ -13,7 +13,7 @@ This study explores six projects in mapping Knowledge Organization Systems (sche
 __keywords__: Data models; Metadata interoperability; Knowledge Organization Systems; Taxonomies; Ontologies
 
 ### Paper and Poster
-[Link to Paper]
+[Link to Paper](https://doi.org/10.1002/pra2.529)
 
 [Link to Poster](https://github.com/yiyunyc2/ASIST21/blob/main/ASIST-21-poster-yyc.pdf)
 
